@@ -137,6 +137,8 @@ Increase the size of the player emoji and provide the ability to **change or cus
 
 The current collision detection area is too large. Refine it to be more precise by adjusting it to edge-to-edge detection, ensuring collisions are only triggered when the actual boundaries of the player and emojis intersect.
 
+---
+
 ## Prompt 6 — Agent mode
 
 **Enhancement Added** 
